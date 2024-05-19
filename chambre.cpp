@@ -1,4 +1,4 @@
-//create by Bassema
+//create by Bassma
 
 #include "chambre.h"
 #include <iomanip>
