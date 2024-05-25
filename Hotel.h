@@ -1,4 +1,4 @@
-//create by zakariyae
+//create by zakariyae bassma douaa
 
 #ifndef HOTEL_H
 #define HOTEL_H
