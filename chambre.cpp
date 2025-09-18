@@ -7,7 +7,7 @@
 using namespace std;
     
 void chambre::acceptchambre(int numch)		//ACCEPTER TOUS LES DÉTAILS DE LA CHAMBRE
-{
+{ 
 	num_chambre=numch;	//NUMÉRO DE CHAMBRE
 	cout<<"Type: AC/Non-AC [AC=air conditionne](A/N) : ";
 	cin>>ac;
