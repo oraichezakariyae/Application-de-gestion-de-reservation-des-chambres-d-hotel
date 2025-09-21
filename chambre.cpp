@@ -5,7 +5,7 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
-      
+       
 void chambre::acceptchambre(int numch)		//ACCEPTER TOUS LES DÉTAILS DE LA CHAMBRE
 { 
 	num_chambre=numch;	//NUMÉRO DE CHAMBRE
