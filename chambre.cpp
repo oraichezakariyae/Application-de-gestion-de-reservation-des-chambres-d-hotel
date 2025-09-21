@@ -12,7 +12,7 @@ void chambre::acceptchambre(int numch)		//ACCEPTER TOUS LES DÉTAILS DE LA CHAMB
 	cout<<"Type: AC/Non-AC [AC=air conditionne](A/N) : ";
 	cin>>ac;
 	while(ac!='A'&& ac!='N')		//VALIDATIONS
-	{
+	{ 
 		cout<<"Veuillez re-entrer le Type: AC/Non-AC (A/N) : ";
 		cin>>ac;
 	}
