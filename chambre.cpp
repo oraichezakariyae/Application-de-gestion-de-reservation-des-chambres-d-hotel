@@ -4,7 +4,7 @@
 #include <iomanip>
 #include <iostream>
 #include <string.h>
-using namespace std;
+using namespace std; 
        
 void chambre::acceptchambre(int numch)		//ACCEPTER TOUS LES DÉTAILS DE LA CHAMBRE
 { 
