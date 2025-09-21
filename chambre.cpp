@@ -19,7 +19,7 @@ void chambre::acceptchambre(int numch)		//ACCEPTER TOUS LES DÉTAILS DE LA CHAMB
 	cout<<"Type Suite Confort ou Normal(S/N) : ";
 	cin>>type;
 	while(type!='S' && type!='N')
-	{
+	{ 
 		cout<<"Veuillez saisir a nouveau Type Suite Confort ou Normal(S/N) : ";
 		cin>>type;
 	}
