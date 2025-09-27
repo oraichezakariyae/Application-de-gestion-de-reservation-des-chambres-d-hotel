@@ -6,7 +6,7 @@
 #include <iomanip>
 #include <iostream>
 #include <string.h>
-
+ 
 using namespace std ;
  
 void Client::accepter() {         //ACCEPTER LES COORDONNÉES DU CLIENT
