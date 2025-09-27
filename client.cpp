@@ -8,7 +8,7 @@
 #include <string.h>
 
 using namespace std ;
-
+ 
 void Client::accepter() {         //ACCEPTER LES COORDONNÉES DU CLIENT
    cout<<"Enter le nom de client: ";
 	getline(cin, nom);
