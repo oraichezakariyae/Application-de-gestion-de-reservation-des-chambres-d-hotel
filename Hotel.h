@@ -4,7 +4,7 @@
 #define HOTEL_H
 #include "client.h"
 #include "chambre.h"
- 
+  
 //class Hotel
 class Hotel
 { 
