@@ -7,7 +7,7 @@
 
 //class Hotel
 class Hotel
-{
+{ 
 	chambre a[100];			//  TABLEAU DE CHAMBRES
 	Client c[100];			//TABLEAU DE CLIENTS
 	int nchambre=0, noclient=0;	//NOMBRE DE CHAMBRES ET DE CLIENTS
